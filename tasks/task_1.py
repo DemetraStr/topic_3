@@ -1,5 +1,5 @@
-num_1 = ...  # здесь Ваш код
-num_2 = ...  # здесь Ваш код
+num_1 = input ()
+num_2 = input ()
 
-average = ...  # здесь Ваш код
-print(...)  # допишите код
+average = (num_1 + num_2) / 2 
+print(average)

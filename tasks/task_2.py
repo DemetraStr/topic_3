@@ -1,6 +1,9 @@
-line = ...  # здесь Ваш код
-num = ...  # здесь Ваш код
+line = input ()
+num = input ()
 
-result = ...  # здесь Ваш код
+result = line
+for result in range (num)
 
-print(...)  # допишите код
+print("введите строку", line)
+print("введите число", num)
+print (result)
